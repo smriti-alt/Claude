@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "puppeteer-core": "^24.40.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
